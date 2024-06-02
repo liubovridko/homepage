@@ -274,6 +274,38 @@
  .additional-info__education-university-name {
    color: var(--secondary-text-color);
  }
+
+ .additional-info__skills {
+  margin-bottom: 20px;
+}
+
+.additional-info__skills-header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__skills-list {
+  color: var(--secondary-text-color);
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.additional-info__jokes {
+  margin-bottom: 20px;
+}
+
+.additional-info__jokes-header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__jokes-list {
+  color: var(--secondary-text-color);
+  padding-left: 20px;
+  margin-top: 10px;
+}
  
  .additional-info__languages {
    margin-bottom: 20px;
